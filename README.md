@@ -1,7 +1,7 @@
 # webop
  Writing for Web Accessibility自制WAI指导原则中文版
 
-## 为多媒体制作文本和标题
+## 为多媒体制作文本和标题 [原文地址](https://www.w3.org/WAI/tips/writing/#create-transcripts-and-captions-for-multimedia)
 对于纯音频内容，比如播客，提供一个文本。对于音频和视频内容，如培训视频，也提供标题。在抄本和标题中包括对理解内容很重要的口语信息和声音，例如，“门吱吱作响”。对于视频抄本，还包括对重要视频内容的描述，例如'Athan leaves the room'。
 更多信息
 * WCAG 网页内容可访问性指南
@@ -11,7 +11,7 @@
 描述字幕如何帮助聋哑学生
 ![](https://github.com/ViolaW/webop/blob/master/images/%E8%8B%B1%E6%96%87%E5%8E%9F%E7%89%88%E6%88%AA%E5%9B%BE1.png)
 
-## 提供明确指示
+## 提供明确指示[原文地址](https://www.w3.org/WAI/tips/writing/#provide-clear-instructions)
 确保说明、指导和错误信息清晰易懂，避免使用不必要的技术语言。描述输入要求，如日期格式。
 示例：表达说明用户应提供的信息
 *密码应至少包含六个字符，至少包含一个数字（0-9）。
@@ -28,7 +28,7 @@
 描述帮助有学习困难的人的简单说明
 ![image](https://github.com/ViolaW/webop/blob/master/images/%E8%8B%B1%E6%96%87%E5%8E%9F%E7%89%88%E6%88%AA%E5%9B%BE2.png)
 
-## 让内容简洁明了
+## 让内容简洁明了[原文地址](https://www.w3.org/WAI/tips/writing/#keep-content-clear-and-concise)
 根据上下文使用简单的语言和格式。
 * 写出简短、清晰的句子和段落。
 * 避免使用不必要的复杂单词和短语。考虑为读者可能不知道的术语提供词汇表。
