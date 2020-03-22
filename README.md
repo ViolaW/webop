@@ -9,7 +9,7 @@
 音频描述或媒体替代（预录制）1.2.3（了解1.2.3）
 * 用户故事
 描述字幕如何帮助聋哑学生
-![](https://github.com/ViolaW/webop/blob/master/images/%E8%8B%B1%E6%96%87%E5%8E%9F%E7%89%88%E6%88%AA%E5%9B%BE1.jpg)
+![image](https://github.com/ViolaW/webop/blob/master/images/%E8%8B%B1%E6%96%87%E5%8E%9F%E7%89%88%E6%88%AA%E5%9B%BE1.jpg)
 
 ## 提供明确指示
 确保说明、指导和错误信息清晰易懂，避免使用不必要的技术语言。描述输入要求，如日期格式。
@@ -26,7 +26,7 @@
 标签或说明3.3.2（理解3.3.2）
 用户故事
 描述帮助有学习困难的人的简单说明
-![](https://github.com/ViolaW/webop/blob/master/images/%E8%8B%B1%E6%96%87%E5%8E%9F%E7%89%88%E6%88%AA%E5%9B%BE2.png)
+![image](https://github.com/ViolaW/webop/blob/master/images/%E8%8B%B1%E6%96%87%E5%8E%9F%E7%89%88%E6%88%AA%E5%9B%BE2.png)
 
 ## 让内容简洁明了
 根据上下文使用简单的语言和格式。
