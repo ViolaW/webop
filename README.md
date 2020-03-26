@@ -203,7 +203,7 @@ CPP：在发生车辆碰撞的情况下，公司指定的代表将寻求确定�
 
 <mark>从结构上：</mark>
 
-![](https://gitee.com/Lephyant/Website_Operation/raw/master/images/picture1.png)
+![](https://gitee.com/Tanmingqi/Website_Operation/raw/master/images/picture1.png)
 
 * 结构明确，模块分类详细清晰，使用主标题和副标题，侧边栏导航和顶部导航等构图，根据用户的偏好需求和热卖推荐个性化定义专属页面。
 
@@ -215,29 +215,29 @@ CPP：在发生车辆碰撞的情况下，公司指定的代表将寻求确定�
 
 <mark>从内容上：</mark>
 
-![](https://gitee.com/Lephyant/Website_Operation/raw/master/images/picture3.png)
+![](https://gitee.com/Tanmingqi/Website_Operation/raw/master/images/picture3.png)
 
 * 内容分层，图片（图标），标语，即时直播（视频）使用替代文本并有简短明了的文字描述，能使顾客短时间内高效率获取所需要的信息。
 
 
-![](https://gitee.com/Lephyant/Website_Operation/raw/master/images/picture10.png)
+![](https://gitee.com/Tanmingqi/Website_Operation/raw/master/images/picture10.png)
 
 
 * 链接文字和图片描述简洁，大部分内容不隐藏关键词介绍，少部分无法在同一层级页面放置的内容才使用不明确的信息替代（“更多”）链接跳转。
 
 
 
-![](https://gitee.com/Lephyant/Website_Operation/raw/master/images/picture9.png)
-![](https://gitee.com/Lephyant/Website_Operation/raw/master/images/picture11.png)
+![](https://gitee.com/Tanmingqi/Website_Operation/raw/master/images/picture9.png)
+![](https://gitee.com/Tanmingqi/Website_Operation/raw/master/images/picture11.png)
 
 
 * 多媒体直播视频有弹幕或带有文字的图片等解释产品信息，用户可以根据需要与官方主播沟通询问，同时能对视频音量自定义调节。
 
 
-![](https://gitee.com/Lephyant/Website_Operation/raw/master/images/picture4.png)
-![](https://gitee.com/Lephyant/Website_Operation/raw/master/images/picture5.png)
-![](https://gitee.com/Lephyant/Website_Operation/raw/master/images/picture6.png)
-![](https://gitee.com/Lephyant/Website_Operation/raw/master/images/picture8.png)
+![](https://gitee.com/Tanmingqi/Website_Operation/raw/master/images/picture4.png)
+![](https://gitee.com/Tanmingqi/Website_Operation/raw/master/images/picture5.png)
+![](https://gitee.com/Tanmingqi/Website_Operation/raw/master/images/picture6.png)
+![](https://gitee.com/Tanmingqi/Website_Operation/raw/master/images/picture8.png)
 
 * 输入框有内容导向指示，列表、表单等有详细的选择项或说明。可切换中英翻译和选择所在地区，淘宝会人性化做出推送产品调整。
 
@@ -245,7 +245,7 @@ CPP：在发生车辆碰撞的情况下，公司指定的代表将寻求确定�
 
 <mark>从辅助组件上：</mark>
 
-![](https://gitee.com/Lephyant/Website_Operation/raw/master/images/picture7.png)
+![](https://gitee.com/Tanmingqi/Website_Operation/raw/master/images/picture7.png)
 
 
 * 适应pc端和手机端，支持触屏和鼠标操作，可以触屏激活功能和语音识别。
@@ -262,7 +262,3 @@ CPP：在发生车辆碰撞的情况下，公司指定的代表将寻求确定�
 * 直播没有同步字幕，可适当考虑添加
 
 ​<mark>**总体来说，淘宝网设计贴合用户需求，大致实现无障碍阅读，给用户较好的体验。**</mark>
-
-
-
-
